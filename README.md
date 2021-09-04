@@ -1,6 +1,7 @@
-***CryptoCoinTracker
-It helps in searching the Coin we need by fetching all information from
-coingecko api https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false
+***CryptoCoinTracker***
+
+It helps in searching the Coin we need by fetching all information from coingecko api :
+https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false
 where we can set the limit for the no of coins appearing on page using a dropdown and search the coin and all its information.
 
 
